@@ -13,3 +13,7 @@ TECH STACK:
 📃Dashboard
 ---
 <img src="https://github.com/reema08/Netflix-Titles-Project/assets/109653833/8e235afd-4575-46b5-8d57-faada2d6fa25" width="1000" hight="1600" />
+
+<image src="https://github.com/reema08/Tableau-Project/assets/109653833/fe4d5e04-8637-4f22-ae92-08978b64d74f" width="80" hight="80" /> Google Drive Link :
+---
+* All the necessary data in one folder : [Click here](https://drive.google.com/drive/folders/1KACyOq9tdnT5JsMDPzhsbKVfK9X6xVtq?usp=drive_link)
