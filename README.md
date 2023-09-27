@@ -12,4 +12,4 @@ TECH STACK:
 
 📃Dashboard
 ---
-<img src="https://github.com/reema08/Netflix-Titles-Project/assets/109653833/8e235afd-4575-46b5-8d57-faada2d6fa25" width="800" hight="1000" />
+<img src="https://github.com/reema08/Netflix-Titles-Project/assets/109653833/8e235afd-4575-46b5-8d57-faada2d6fa25" width="1000" hight="1600" />
